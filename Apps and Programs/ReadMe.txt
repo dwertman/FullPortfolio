@@ -10,3 +10,5 @@ Written in Java. Code can be found in FullPortfolio/Apps and Programs/Assignment
 MobileDevelopmentApp - a final assignment created for a college course in collaboration with a classmate. The app allows a user to take a picture of an item in their fridge,
 record information about it such as its name, expiration date, quantity, in order to organize information about them. The app then sorts items based on expiration date.
 Written in Java Code can be found in FullPortfolio/Apps and Programs/MobileDevelopmentApp/main/java/com/example/finalproject/
+
+SortAlgorithms - this folder contains code for a project that compares four sort algorithms: selection, bubble, insertion, and quick.
